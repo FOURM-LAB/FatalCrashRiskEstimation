@@ -13,8 +13,6 @@ Traffic accidents threaten human lives and impose substantial financial burdens 
   title={Unveiling Roadway Hazards: Enhancing Fatal Crash Risk Estimation Through Multiscale Satellite Imagery and Self-Supervised Cross-Matching}, 
   year={2024},
   volume={17},
-  number={},
   pages={535-546},
-  keywords={Satellite images;Accidents;Computer crashes;Estimation;Task analysis;Self-supervised learning;Artificial neural networks;Accident prediction;aerial image;remote sensing;road safety;self-supervised learning (SSL);smart cities},
   doi={10.1109/JSTARS.2023.3331438}}
 ```
