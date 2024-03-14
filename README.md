@@ -1,11 +1,11 @@
-# Unveiling Roadway Hazards: Enhancing Fatal Crash Risk Estimation Through Multiscale Satellite Imagery and Self-Supervised Cross-Matching
+## Unveiling Roadway Hazards: Enhancing Fatal Crash Risk Estimation Through Multiscale Satellite Imagery and Self-Supervised Cross-Matching
 
-#### [Gongbo Liang](http://www.gb-liang.com), [Janet Zulu](https://www.linkedin.com/in/janetzulu/), [Xin Xing](https://xtrigold.github.io), [Nathan Jaocbs](https://jacobsn.github.io/)
+#### [Gongbo Liang](http://www.gb-liang.com), [Janet Zulu](https://www.linkedin.com/in/janetzulu/), [Xin Xing](https://xtrigold.github.io), [Nathan Jaocbs](https://jacobsn.github.io/) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313931)
 
-## Abstract
+### Abstract
 Traffic accidents threaten human lives and impose substantial financial burdens annually. Accurate estimation of accident fatal crash risk is crucial for enhancing road safety and saving lives. This paper proposes an innovative approach that utilizes multi-scale satellite imagery and self-supervised learning for fatal crash risk estimation. By integrating multi-scale imagery, our network captures diverse features at different scales, encompassing observations of surrounding environmental factors in low-resolution images that cover larger areas and learning detailed ground-level information from high-resolution images. One advantage of our work is its sole reliance on satellite imagery data, making it an efficient and practical solution, especially when other data modalities are unavailable. With the ability to accurately estimate fatal crash risk, our method exhibits a potential for enhancing road safety, optimizing infrastructure planning, preventing accidents, and ultimately saving lives. 
 
-## 📑 Citation
+### 📑 Citation
 ```bibtex
 @ARTICLE{liang2024unveiling,
   author={Liang, Gongbo and Zulu, Janet and Xing, Xin and Jacobs, Nathan},
